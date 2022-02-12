@@ -115,12 +115,15 @@ From The First Graph Loan Purpose
 
 
 
+
 ### Loan Approval on the basics of Employment type
 
 ![image](https://user-images.githubusercontent.com/67271184/128602843-4fc5b434-9d4c-4594-b917-d9f3515c50de.png)
 
 Here From the above analysis, we see that around 72% of the loan applicants are Fixed Income Earners. 
 12% of the loan Applicants are Civil servants and 9-8% are Non-Fixed income Earners Or self-employed
+
+
 
 
 
@@ -141,6 +144,8 @@ Here From the above analysis, we see that around 72% of the loan applicants are 
 
 	
 
+
+
 ### Loan Approval Analysis on the basics of Monthly Income
 
 ![image](https://user-images.githubusercontent.com/67271184/128602862-dde82dbd-4658-42a1-86a2-4f10c32831a8.png)
@@ -148,6 +153,8 @@ Here From the above analysis, we see that around 72% of the loan applicants are 
 
 It can be inferred that most of the data in the distribution of applicant Mounty's income are towards the left which means it is not normally distributed. The distribution is right-skewed (positive skewness).
 The boxplot confirms the presence of a lot of outliers/extreme values. This can be attributed to the income disparity in society. Part of this can be driven by the fact that we are looking at people with different education levels.
+
+
 
 
 
@@ -211,7 +218,7 @@ FROM THE BAR CHARTS ABOVE WE CAN SAY THAT -:
 
 
 
-### --------------------ML MODELING--------------------
+###             -------------------------------------------------------ML MODELING-----------------------------------------------------------
 
 
 So, the Algorithm we have used to use this Data and make a model that can predict whether any applicants will get a loan or loan or the basics of different criteria.
